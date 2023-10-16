@@ -21,3 +21,5 @@ Ozon — ведущая мультикатегорийная платформа 
 ОПИСАНИЕ ИТОГОВОГО ПРОДУКТА
 
 ML-модель
+
+![Certificate.png](https://github.com/falcon-90125/hackathon_LCT/blob/main/Certificate.png)
